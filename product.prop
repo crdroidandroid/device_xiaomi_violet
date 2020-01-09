@@ -46,3 +46,6 @@ ro.netflix.bsp_rev=Q6150-17263-1
 
 # Recovery
 persist.sys.recovery_update=true
+
+# SafteyNet prop
+ro.build.fingerprint=google/walleye/walleye:8.1.0/OPM1.171019.011/4448085:user/release-keys
