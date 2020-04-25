@@ -44,8 +44,5 @@ persist.data.df.dev_name=rmnet_usb0
 # Netflix
 ro.netflix.bsp_rev=Q6150-17263-1
 
-# Recovery
-persist.sys.recovery_update=true
-
 # SafteyNet prop
 ro.build.fingerprint=google/flame/flame:10/QQ2A.200405.005/6254899:user/release-keys
