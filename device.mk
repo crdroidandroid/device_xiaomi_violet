@@ -11,7 +11,7 @@ $(call inherit-product-if-exists, vendor/xiaomi/violet/violet-vendor.mk)
 #$(call inherit-product-if-exists, packages/apps/GoogleCamera/gcam.mk)
 
 # MiuiCamera
-$(call inherit-product-if-exists, vendor/MiuiCamera/config.mk)
+$(call inherit-product-if-exists, vendor/ANXCamera/config.mk)
 
 # Firmware
 #$(call inherit-product, vendor/xiaomi/violet/firmware/firmware.mk)
